@@ -55,9 +55,9 @@
 
 如果你想改变内卷的环境，可以通过换组或者是换工作到 955 的公司，换城市、或者甚至去国外：
 
-[955.WLB 955 不加班的公司名单](https://github.com/formulahendry/955.WLB)
-[996.Leave 逃离996](https://github.com/623637646/996.Leave)
-[remote-jobs-cn 国内远程办公职位](https://github.com/chenyukang/remote-jobs-cn)
+- [955.WLB 955 不加班的公司名单](https://github.com/formulahendry/955.WLB)
+- [996.Leave 逃离996](https://github.com/623637646/996.Leave)
+- [remote-jobs-cn 国内远程办公职位](https://github.com/chenyukang/remote-jobs-cn)
 
 
 ### 职场 PUA
